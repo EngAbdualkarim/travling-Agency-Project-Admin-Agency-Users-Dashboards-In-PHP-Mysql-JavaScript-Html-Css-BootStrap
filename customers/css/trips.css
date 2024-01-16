@@ -1,0 +1,20 @@
+
+.card-body {
+    background-color: transparent !important;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    background-image: linear-gradient(rgba(130, 138, 173, 0.4), rgba(244, 245, 250, 0.4)), url(../images/home.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: black; 
+}
+
+#noHistoryContainer {
+    margin-top: 70px; 
+}
